@@ -112,7 +112,7 @@ Programs usually think of data in terms of rigid stereotypes.
 - dictionaries/hash tables/associative arrays
 - nonetypes/null/nil
 
-Review [data types](https://nyu-python-programming.github.io/course-material/data-types).
+Review [data types](https://knowledge.kitchen/content/courses/intro-to-programming/data-types).
 
 ---
 
@@ -130,7 +130,7 @@ response = input("What's brown and sticky?")
 print("'{}' is correct!".format(response.capitalize()))
 ```
 
-Review [input and output](https://nyu-python-programming.github.io/course-material/input-output).
+Review [input and output](https://knowledge.kitchen/content/courses/intro-to-programming/input-output).
 
 ---
 
@@ -145,7 +145,7 @@ if this or that and the_other is not also_that:
     thats_wonderful()
 ```
 
-Review [boolean logic](https://nyu-python-programming.github.io/course-material/boolean-logic) and [decision-making](https://nyu-python-programming.github.io/course-material/decision-making).
+Review [boolean logic](https://knowledge.kitchen/content/courses/intro-to-programming/boolean-logic) and [decision-making](https://knowledge.kitchen/content/courses/intro-to-programming/decision-making).
 
 ---
 
@@ -160,7 +160,7 @@ def thats_wonderful():
     print("That's wonderful")
 ```
 
-Review [functions](https://nyu-python-programming.github.io/course-material/functions).
+Review [functions](https://knowledge.kitchen/content/courses/intro-to-programming/functions).
 
 ---
 
@@ -182,7 +182,7 @@ def thats_wonderful():
         print("Okay...")
 ```
 
-Review [modules](https://nyu-python-programming.github.io/course-material/modules).
+Review [modules](https://knowledge.kitchen/content/courses/intro-to-programming/modules).
 
 ---
 
@@ -204,7 +204,7 @@ while i < 10:
     i = i + 1
 ```
 
-Review [for loops](https://nyu-python-programming.github.io/course-material/loops-for) and [while loops](https://nyu-python-programming.github.io/course-material/loops-while).
+Review [for loops](https://knowledge.kitchen/content/courses/intro-to-programming/loops-for) and [while loops](https://knowledge.kitchen/content/courses/intro-to-programming/loops-while).
 
 ---
 
@@ -222,7 +222,7 @@ favorite_foods = [
     ]
 ```
 
-Review [lists](https://nyu-python-programming.github.io/course-material/list-basics) and [more lists](https://nyu-python-programming.github.io/course-material/list-more).
+Review [lists](https://knowledge.kitchen/content/courses/intro-to-programming/list-basics) and [more lists](https://knowledge.kitchen/content/courses/intro-to-programming/list-more).
 
 ---
 
@@ -240,7 +240,7 @@ phone_numbers: {
 }
 ```
 
-Review [dictionaries](https://nyu-python-programming.github.io/course-material/dictionary-basics) and [more dictionaries](https://nyu-python-programming.github.io/course-material/dictionary-more).
+Review [dictionaries](https://knowledge.kitchen/content/courses/intro-to-programming/dictionary-basics) and [more dictionaries](https://knowledge.kitchen/content/courses/intro-to-programming/dictionary-more).
 
 ---
 
@@ -261,7 +261,7 @@ for line in f:
     data = line.split(",")
 ```
 
-Review [text files](https://nyu-python-programming.github.io/course-material/text-files).
+Review [text files](https://knowledge.kitchen/content/courses/intro-to-programming/text-files).
 
 ---
 
@@ -279,7 +279,7 @@ if pos > 0:
     data = text.split(",")
 ```
 
-Review [strings](https://nyu-python-programming.github.io/course-material/string-basics) and [string formatting](https://nyu-python-programming.github.io/course-material/string-formatting).
+Review [strings](https://knowledge.kitchen/content/courses/intro-to-programming/string-basics) and [string formatting](https://knowledge.kitchen/content/courses/intro-to-programming/string-formatting).
 
 ---
 
@@ -307,7 +307,7 @@ I_am_not
 math.pow(washington, 2) + park
 ```
 
-Review [variables, literals, and expressions](https://nyu-python-programming.github.io/course-material/variables-literals-expressions).
+Review [variables, literals, and expressions](https://knowledge.kitchen/content/courses/intro-to-programming/variables-literals-expressions).
 
 ---
 
@@ -424,7 +424,7 @@ Can you answer these questions?
 
 --
 
-Review [basic computer concepts](https://nyu-python-programming.github.io/course-material/basic-computer-concepts).
+Review [basic computer concepts](https://knowledge.kitchen/content/courses/intro-to-computer-science/basic-computer-concepts/).
 
 ---
 
@@ -461,7 +461,7 @@ x = r"First line\nSecond line"
 print(x)
 ```
 
-Learn about [raw strings](https://nyu-python-programming.github.io/course-material/string-raw).
+Learn about [raw strings](https://knowledge.kitchen/content/courses/intro-to-programming/string-raw).
 
 ---
 
