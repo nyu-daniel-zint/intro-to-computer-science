@@ -39,16 +39,12 @@ daniel.zint@nyu.edu
 
 Office hours (please announce yourself by writing an email):
 
-- Monday 2:00 - 3:00 pm
-- Wednesday 2:00 - 3:00 pm
+- Monday 3:00 - 4:00 pm
+- Wednesday 3:00 - 4:00 pm
 
 ## Getting help
 
 Help resources available to you are listed in order of urgency of your problem:
-
-### Messaging
-
-Our course will use Brightspace as main communication channel for announcements and discussion. This is a good place to ask questions that anyone - other students, graders, tutors, or the professor - can answer. This is a resource best used when the answer is not required urgently.
 
 ### Tutoring
 
@@ -72,7 +68,7 @@ Additional academic support is also available through the [University Learning C
 
 ## Attendance & participation
 
-**Attendance is highly encouraged**! In-class and online message board participation is encouraged. Students who do not attend class regularly and who do not participate in discussions tend to do poorly.
+**Attendance is highly encouraged**! Students who do not attend class regularly and who do not participate in discussions tend to do poorly.
 
 ## Required software and hardware
 
