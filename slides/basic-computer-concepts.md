@@ -510,7 +510,7 @@ Software needs some context for how it should run
   - The input data that the user provided
   - Which input files/locations to open
   - What data should be generated?
-  - Where/how should that be data stored?
+  - Where/how should that data be stored?
 
 --
 
