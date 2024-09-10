@@ -90,7 +90,7 @@ You will be able to save your work in the ITS labs on your own flash drive, or o
 
 You will receive a grade based on the following rubric.
 
-- 10% quizzes
+- 10% quizzes (5% online, 5% in class)
 - 15% assignments
 - 20% first exam
 - 25% second exam
