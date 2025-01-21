@@ -6,7 +6,7 @@ Slide presentations used to teach basic computer science concepts, largely focus
 
 ## Deployed site
 
-View the [schedule](https://nyu-daniel-zint.github.io/intro-to-computer-science-2023-fall/) and [syllabus](https://nyu-daniel-zint.github.io/intro-to-computer-science-2023-fall/syllabus/), which contain links to all deployed course materials.
+View the [schedule](https://nyu-daniel-zint.github.io/intro-to-computer-science/) and [syllabus](https://nyu-daniel-zint.github.io/intro-to-computer-science/syllabus/), which contain links to all deployed course materials.
 
 ## Running locally
 
