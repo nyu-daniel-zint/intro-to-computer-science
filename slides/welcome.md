@@ -552,7 +552,7 @@ topics. You may find them useful but incomplete.
 
 - The notes pertinent to any lecture are found on the [schedule](./../schedule).
 
-You find all the material to his courses on [Knowldedge Kitchen](https://knowledge.kitchen/).
+You find all the material for his courses on [Knowledge Kitchen](https://knowledge.kitchen/).
 
 ---
 
