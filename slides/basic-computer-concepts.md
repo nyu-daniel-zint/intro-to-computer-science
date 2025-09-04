@@ -404,7 +404,7 @@ json
 
 --
 
-<a href="https://nyu.edu"><img src="../../content/assets/nyu.svg" alt="drawing" width="250"/></a>
+<img src="../../content/assets/nyu.svg" alt="drawing" width="250"/>
 
 ---
 
